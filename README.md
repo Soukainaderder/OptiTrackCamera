@@ -1,7 +1,7 @@
 # OptiTrackCamera
 
 Description du projet: OptiTrack est utilisée afin de capturer et enregistrer le mouvement d'objets ou de personnes ainsi de créer des
-                       modèles 3D animés
+                       modèles 3D animés.
 
 Première séance: j'ai fait des recheches (vidéos, documentations...) sur la caméra OptiTrack afin d'avoir une idée générale sur le projet
                  Biblio: le site oficiel de la caméra http://optitrack.com/
