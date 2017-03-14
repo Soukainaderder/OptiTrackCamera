@@ -9,5 +9,7 @@ Première séance: j'ai fait des recheches (vidéos, documentations...) sur la c
 Deuxième séance: J'ai essayé d'installer et faire fonctionner ce logiciel Motive1.10 qui fournit des interfaces pour la capture et le                      traitement des données 3D , mais je n'arrivais pas à trouver la licence afin de l'activer. 
                  http://wiki.optitrack.com/index.php?title=Installation_and_Activation
                  
+Troisième Séance: J'ai pas encore réussi à faire installer et fonctionner la cam, j'ai installé des logiciels mais je faisais pas des 
+                  tests en utilisant OptiTrack
                  
                  
