@@ -4,9 +4,9 @@ Ce projet a pour but l'utilisation de deux caméras OptiTrack FLEX:V100R2 afin d
 
 Pour s'approcher au mieux de l'objectif souhaité : https://www.youtube.com/watch?v=6bbEZDhXk2A
 
-La première étape consiste à faire fonctionner la caméra afin de capturer des images
+La première étape consiste à faire fonctionner la caméra afin de capturer des images.
 
-La deuxième est consacrée à la synchronisation entre les deux caméras afin de capturer les images en meme temps
+La deuxième est consacrée à la synchronisation entre les deux caméras afin de capturer les images en meme temps.
 
-Et la dernière est dédiée à la création de modèles 3D
+Et la dernière est dédiée à la création de modèles 3D.
 
