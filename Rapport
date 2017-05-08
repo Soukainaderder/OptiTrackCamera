@@ -9,10 +9,11 @@ J'ai essayé d'installer et faire fonctionner ce logiciel Motive1.10 qui fournit
 J'ai pas encore réussi à faire fonctionner la cam, j'ai fait la mise en place de OpenCV dans Visual Studio 2015 et j'ai testé un code 
 afin de vérifier la bonne configuration.
 
-J'ai installé le driver SDK du site officiel d'OptiTrack         
+J'ai installé le driver SDK du site officiel d'OptiTrack.
+
 J'ai testé des codes en utilisant OpenCv afin de capturer des images avec la cam et ça marchait pas. Mais, finalement j'ai réussi à 
 faire fonctionner la cam avec l'un des projets MJPEGViewer sous Visual Studio 2015.
 
-Je travaillais sur la synchnisation entre les 2 caméras mais toujours ça detecte que la première caméra connectée. Du coup, j'ai du 
-faire la synchnisation en utilisant les cables RCA (je les ai commandé, je les recevrai au plus tard le 10 Mai) 
+Je travaillais maintenant sur la synchnisation entre les 2 caméras mais toujours ça detecte que la première caméra connectée. Du coup, j'ai du 
+faire la synchronisation en utilisant les cables RCA (je les ai commandé, je les recevrai au plus tard le 10 Mai).
               
